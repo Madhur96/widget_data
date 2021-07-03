@@ -1,31 +1,8 @@
 <response>
-	<success>
-		<total>1</total>
-	</success>
 	<contents>
 		<quotes>
-			<quote>150 kWh</quote>
-			<length>150 kWh</length>
-			<author>Japanese Proverb</author>
-			<tags>
-				<tags>action</tags>
-				<tags>inspire</tags>
-				<tags>vision</tags>
-			</tags>
-			<category>inspire</category>
-			<language>en</language>
-			<date>2021-07-01</date>
-			<permalink>
-        https://theysaidso.com/quote/japanese-proverb-vision-without-action-is-daydream-action-without-vision-is-nigh
-      </permalink>
-			<id>1frNkKmnuhbKYO4OyURZyQeF</id>
-			<background>https://theysaidso.com/img/qod/qod-inspire.jpg</background>
-			<title>Inspiring Quote of the day</title>
+			<quote>150</quote>
+			<timestamp>2021-07-01</timestamp>
 		</quotes>
 	</contents>
-	<baseurl>https://theysaidso.com</baseurl>
-	<copyright>
-		<year>2023</year>
-		<url>https://theysaidso.com</url>
-	</copyright>
 </response>
